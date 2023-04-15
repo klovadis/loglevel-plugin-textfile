@@ -1,0 +1,15 @@
+{
+  "name": "loglevel-plugin-textfile",
+  "version": "0.1.0",
+  "description": "Plugin for pimterry/loglevel that outputs messages to a log file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geerten van Meel",
+  "license": "MIT",
+  "devDependencies": {
+    "loglevel": "^1.8.1",
+    "mocha": "^10.2.0"
+  }
+}
